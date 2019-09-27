@@ -1,0 +1,18 @@
+Projeto de banco de dados
+Prof: Maria Luiza mondelli (Malu)
+
+Plano de Aula
+
+1 introdução e modelo BD
+2 modelo entidade de relacionamento e formas
+3 SQL - DDL, DML e DQL (exercicios)
+4 SQL - DQL e DCL (exercicios)
+
+Para intalar em casa:  D Beaver
+POSTGRESQL
+SQLITE
+
+
+O que são dados?
+
+Videos para aasistir ( TED )
